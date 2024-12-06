@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 1,
+        "name":"Story",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":0,
+        "category":"Story",
+        "free":true,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 2,
+        "name":"Drame",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":0,
+        "category":"Drama",
+        "free":true,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 3,
+        "name":"Love",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":0,
+        "category":"Love",
+        "free":true,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 4,
+        "name":"Story2",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":0,
+        "category":"Story2",
+        "free":true,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 5,
+        "name":"Story5",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":0,
+        "category":"Story5",
+        "free":true,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 6,
+        "name":"Recipe",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":20,
+        "category":"Recipe",
+        "free":false,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 7,
+        "name":"Places",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":20,
+        "category":"Places",
+        "free":false,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 8,
+        "name":"Cards",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":10,
+        "category":"Cards",
+        "free":false,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 9,
+        "name":"Game",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":30,
+        "category":"Game",
+        "free":false,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    },
+    {
+        "id" : 10,
+        "name":"Names",
+        "title":"adas dnkajssand kjnskdnask",
+        "price":1,
+        "category":"Names",
+        "free":false,
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17333.jpg?ga=GA1.1.2118334148.1720356342&semt=sph"
+    }
+]
